@@ -1,0 +1,25 @@
+{
+  "name": "uef-js",
+  "version": "1.0.4",
+  "description": "Universal Executable Format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "executable",
+    "file_format"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli2json": "^1.0.0",
+    "fast-xml-parser": "^4.0.7",
+    "unzipper": "^0.10.11",
+    "yaml": "^2.1.0"
+  },
+  "repository": "https://github.com/Unzor/uef",
+  "bin": {
+    "uef": "index.js"
+  }
+}

@@ -1,6 +1,15 @@
 # uef
 Universal Executable Format
 
+# Installation
+```
+npm install -g uef-js
+```
+or to use it as a module:
+```
+npm install uef-js
+```
+
 # Usage
 From command line:
 ```

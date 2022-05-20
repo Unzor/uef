@@ -1,4 +1,4 @@
 - Windows: 
-  - "./files/test.exe"
+  - "files/test.exe"
 - Linux:
   - ./files/test
